@@ -1,0 +1,15 @@
+#inputrow {
+    background-color:aquamarine;
+    text-align: center;
+}
+
+#mathprompt {
+    text-align:center;
+    font-size: 20;
+    color: black;
+}
+
+
+body {
+    background-color: orange;
+}
